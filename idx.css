@@ -1,0 +1,12 @@
+.intro{
+    font-size:large;
+}
+#university{
+    background-color:darkturquoise;
+}
+
+#portfolio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
